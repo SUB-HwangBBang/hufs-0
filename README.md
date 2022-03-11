@@ -1,2 +1,2 @@
 # hufs-0
-# 202103769 황병훈
+# OpenSource
